@@ -1,0 +1,192 @@
+[
+    {
+        "transaction_month": "April 2019",
+        "transaction_type": "CR",
+        "transaction_summary": "Transfer From Tayo Abbey",
+        "transaction_date": "April 26th 2019",
+        "transaction_amount": 10000,
+        "transaction_time": "10:08",
+        "current_balance": 323000,
+        "date": "2019-04-26"
+    },
+    {
+        "transaction_month": "April 2019",
+        "transaction_type": "DR",
+        "transaction_summary": "Transfer To Mushy",
+        "transaction_date": "April 26th 2019",
+        "transaction_amount": 50000,
+        "transaction_time": "13:30",
+        "current_balance": 313000,
+        "date": "2019-04-26"
+    },
+    {
+        "transaction_month": "April 2019",
+        "transaction_type": "DR",
+        "transaction_summary": "Transfer To ProvidusBank",
+        "transaction_date": "April 25th 2019",
+        "transaction_amount": 7000,
+        "transaction_time": "8:00",
+        "current_balance": 363000,
+        "date": "2019-04-25"
+    },
+    {
+        "transaction_month": "April 2019",
+        "transaction_type": "DR",
+        "transaction_summary": "Transfer To Mr. Adeniyi",
+        "transaction_date": "April 25th 2019",
+        "transaction_amount": 20000,
+        "transaction_time": "15:24",
+        "current_balance": 370000,
+        "date": "2019-04-25"
+    },
+    {
+        "transaction_month": "April 2019",
+        "transaction_type": "DR",
+        "transaction_summary": "Transfer To Tunde Aderigbe",
+        "transaction_date": "April 24th 2019",
+        "transaction_amount": 10000,
+        "transaction_time": "10:01",
+        "current_balance": 390000,
+        "date": "2019-04-24"
+    },
+    {
+        "transaction_month": "April 2019",
+        "transaction_type": "DR",
+        "transaction_summary": "Transfer To Bosede-Kate",
+        "transaction_date": "April 24th 2019",
+        "transaction_amount": 10000,
+        "transaction_time": "17:00",
+        "current_balance": 400000,
+        "date": "2019-04-24"
+    },
+    {
+        "transaction_month": "March 2019",
+        "transaction_type": "DR",
+        "transaction_summary": "Transfer To Oluguze",
+        "transaction_date": "March 26th 2019",
+        "transaction_amount": 10000,
+        "transaction_time": "18:00",
+        "current_balance": 410000,
+        "date": "2019-03-26"
+    },
+    {
+        "transaction_month": "March 2019",
+        "transaction_type": "CR",
+        "transaction_summary": "Transfer From Mushy",
+        "transaction_date": "March 26th 2019",
+        "transaction_amount": 50000,
+        "transaction_time": "20:50",
+        "current_balance": 420000,
+        "date": "2019-03-26"
+    },
+    {
+        "transaction_month": "March 2019",
+        "transaction_type": "CR",
+        "transaction_summary": "Transfer To ProvidusBank",
+        "transaction_date": "March 25th 2019",
+        "transaction_amount": 70000,
+        "transaction_time": "14:10",
+        "current_balance": 330000,
+        "date": "2019-03-25"
+    },
+    {
+        "transaction_month": "March 2019",
+        "transaction_type": "DR",
+        "transaction_summary": "Transfer To Ogbezuode",
+        "transaction_date": "March 25th 2019",
+        "transaction_amount": 10000,
+        "transaction_time": "05:40",
+        "current_balance": 260000,
+        "date": "2019-03-25"
+    },
+    {
+        "transaction_month": "March 2019",
+        "transaction_type": "DR",
+        "transaction_summary": "Transfer To AdeotiSaina",
+        "transaction_date": "March 24th 2019",
+        "transaction_amount": 10000,
+        "transaction_time": "08:00",
+        "current_balance": 270000,
+        "date": "2019-03-24"
+    },
+    {
+        "transaction_month": "March 2019",
+        "transaction_type": "DR",
+        "transaction_summary": "Transfer To TobiNaomi",
+        "transaction_date": "March 24th 2019",
+        "transaction_amount": 20000,
+        "transaction_time": "10:30",
+        "current_balance": 280000,
+        "date": "2019-03-24"
+    },
+    {
+        "transaction_month": "February 2019",
+        "transaction_type": "CR",
+        "transaction_summary": "Transfer From Oluwatoni",
+        "transaction_date": "February 26th 2019",
+        "transaction_amount": 10000,
+        "transaction_time": "12:34",
+        "current_balance": 290000,
+        "date": "2019-02-26"
+    },
+    {
+        "transaction_month": "February 2019",
+        "transaction_type": "CR",
+        "transaction_summary": "Transfer From Mustapha",
+        "transaction_date": "February 26th 2019",
+        "transaction_amount": 50000,
+        "transaction_time": "17:45",
+        "current_balance": 280000,
+        "date": "2019-02-26"
+    },
+    {
+        "transaction_month": "February 2019",
+        "transaction_type": "DR",
+        "transaction_summary": "Transfer To Bunmi Morgan",
+        "transaction_date": "February 25th 2019",
+        "transaction_amount": 70000,
+        "transaction_time": "19:53",
+        "current_balance": 230000,
+        "date": "2019-02-25"
+    },
+    {
+        "transaction_month": "February 2019",
+        "transaction_type": "DR",
+        "transaction_summary": "Transfer To Mr. Emmanuel",
+        "transaction_date": "February 25th 2019",
+        "transaction_amount": 20000,
+        "transaction_time": "19:20",
+        "current_balance": 300000,
+        "date": "2019-02-25"
+    },
+    {
+        "transaction_month": "February 2019",
+        "transaction_type": "CR",
+        "transaction_summary": "Transfer From Bayo-Felix",
+        "transaction_date": "February 24th 2019",
+        "transaction_amount": 100000,
+        "transaction_time": "11:20",
+        "current_balance": 320000,
+        "date": "2019-02-24"
+    },
+    {
+        "transaction_month": "February 2019",
+        "transaction_type": "CR",
+        "transaction_summary": "Transfer From Awele-Eze",
+        "transaction_date": "February 24th 2019",
+        "transaction_amount": 10000,
+        "transaction_time": "12:00",
+        "current_balance": 220000,
+        "date": "2019-02-24"
+    },
+    {
+        "transaction_month": "February 2019",
+        "transaction_type": "CR",
+        "transaction_summary": "Transfer From Mr. Windapo",
+        "transaction_date": "February 24th 2019",
+        "transaction_amount": 10000,
+        "transaction_time": "23:10",
+        "current_balance": 210000,
+        "date": "2019-02-24"
+    }
+]

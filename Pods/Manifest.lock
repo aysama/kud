@@ -1,0 +1,33 @@
+PODS:
+  - Crashlytics (3.12.0):
+    - Fabric (~> 1.9.0)
+  - Fabric (1.9.0)
+  - IQKeyboardManagerSwift (6.2.0)
+  - SwiftChart (1.0.1)
+  - SwiftLint (0.30.1)
+
+DEPENDENCIES:
+  - Crashlytics
+  - Fabric
+  - IQKeyboardManagerSwift
+  - SwiftChart
+  - SwiftLint
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Crashlytics
+    - Fabric
+    - IQKeyboardManagerSwift
+    - SwiftChart
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  Crashlytics: 07fb167b1694128c1c9a5a5cc319b0e9c3ca0933
+  Fabric: f988e33c97f08930a413e08123064d2e5f68d655
+  IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
+  SwiftChart: ba767a678d568a5ee22d419e146a0582865e1aff
+  SwiftLint: a54bf1fe12b55c68560eb2a7689dfc81458508f7
+
+PODFILE CHECKSUM: 66feb47e8354cabd60b8cd0d71e5f1e27ad5c467
+
+COCOAPODS: 1.6.1
